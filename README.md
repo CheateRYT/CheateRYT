@@ -11,6 +11,6 @@ Hello
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
 
-### Follow Me
+### Resume
 
 [![hh.ru](https://img.shields.io/badge/-hh-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
