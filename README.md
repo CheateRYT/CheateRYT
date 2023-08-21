@@ -13,4 +13,4 @@ Hello
 
 ### Resume
 
-[![hh.ru](https://img.shields.io/badge/-hh-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
+[![hh.ru](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
