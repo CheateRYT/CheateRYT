@@ -1,4 +1,4 @@
-[Header](https://github.com/CheateRYT/CheateRYT/blob/main/assets/destroy-code-mad.gif)
+![Header](https://github.com/CheateRYT/CheateRYT/blob/main/assets/destroy-code-mad.gif)
 
 ## I'm begginer frontend developer 
 
