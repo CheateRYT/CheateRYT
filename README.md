@@ -1,6 +1,6 @@
 [![Header](https://github.com/CheateRYT/CheateRYT/blob/main/assets/destroy-code-mad.gif)](https://github.com/CheateRYT)
 
-## I'm begginer frontend developer 
+## I'm frontend developer 
 
 Hello
 
