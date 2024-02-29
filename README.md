@@ -22,6 +22,8 @@ Hello
 ![Dockercompose](https://img.shields.io/badge/-DockerCompose-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Blockhain](https://img.shields.io/badge/-Blockhain-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 
