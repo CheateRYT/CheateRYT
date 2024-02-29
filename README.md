@@ -19,7 +19,7 @@ Hello
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![Docker-compose](https://img.shields.io/badge/-Docker-compose-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Dockercompose](https://img.shields.io/badge/-DockerCompose-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
