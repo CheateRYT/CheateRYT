@@ -10,12 +10,12 @@ Hello
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Confident](https://img.shields.io/badge/-WavesEnterprise-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Blockhain](https://img.shields.io/badge/-Blockhain-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
+![Solidity](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Confident](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Jquery](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Kotlin](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Python](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+![Blockhain](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 
 ### Resume
 
