@@ -15,7 +15,6 @@ Hello
 ![PixelPerfect](https://img.shields.io/badge/-PixelPerfect-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Dockercompose](https://img.shields.io/badge/-DockerCompose-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
