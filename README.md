@@ -20,7 +20,7 @@ Hello
 ![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ### Resume
 
 [![hh.ru](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
