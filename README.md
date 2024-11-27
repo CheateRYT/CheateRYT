@@ -43,4 +43,4 @@ Not a bug, but a feature
  <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=CheateRYT&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CheateRYT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheateRYT&theme=tokyonight" alt="mystreak"/>
