@@ -38,6 +38,7 @@ Not a bug, but a feature
 - **[Proper food](https://github.com/CheateRYT/Food)** (HTML+ CSS + JS) - **Website on pure JS, with many widgets. Slider, forms, calculator, select menu, promo timer**
 - **[Todo list](https://github.com/CheateRYT/todo_redux)** (React) - **Todo list with Redux Toolkit 2.0**
 - **[Uniswap new interface](https://github.com/CheateRYT/uniswapnextjs)** (NextJS + TS + Web3js) - **New Uniswap interface. With auto deploy web3js solidity smart contract. Auth with MetaMask**
+- **[YorLife](https://github.com/CheateRYT/yourLifeReact)** (React) - **Your life - a browser game where you live life from birth until death**
 
  <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=CheateRYT&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
