@@ -15,7 +15,7 @@ Hello
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
 ![NextJS](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=E9D54D)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
-![NestJS](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=E9D54D)
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
