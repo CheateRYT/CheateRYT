@@ -1,9 +1,9 @@
 [![Header](https://github.com/CheateRYT/CheateRYT/blob/main/assets/destroy-code-mad.gif)](https://github.com/CheateRYT)
 
 
-## I'm frontend developer 
+## HelloI'm FullStack developer 
 
-Hello
+Not a bug, but a feature
 
 ### Languages and Tools
 
@@ -27,6 +27,17 @@ Hello
 ### Resume
 
 [![hh.ru](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
+- **[Gril-MixCer](https://github.com/CheateRYT/grilmixer)** (React + NestJS + PrismaORM + TS + YooMoney) - **Commercial project for a restaurant and food court using online payment**
+- **[Apartment renovation](https://github.com/CheateRYT/Order_database)** (React + ExpressJs + PrismaORM + TS) - **Website for applications for apartment renovation **
+- **[Uniswap](https://github.com/CheateRYT/Uniswap)** (Solidity + React + TS + Geth + Web3js) - **Blockchain project for championship. Uniswap parody. Pools, stacking, liquidity, multiRouter**
+- **[Employee management](https://github.com/CheateRYT/react-employees)** (React + Express js + PrismaORM + TS) - **Employee management project for course work**
+- **[MarketPlace](https://github.com/CheateRYT/ConfidentProfessionals_2024_B)** (Jquery + Kotlin + Docker + Confident (Web3Tech) - **Blockchain marketplace project in which there are clients, distributors, administrators, ordering systems**
+- **[RollShop](https://github.com/CheateRYT/RollShop)** (HTML+ CSS + JS) - **Roll store written in pure JS withot frameworks**
+- **[Porfolio](https://github.com/CheateRYT/Portfolio)** (HTML+ CSS + JS) - **Frontend Portfolio website**
+- **[PassGenerator](https://github.com/CheateRYT/Pass-Generator)** (HTML+ CSS + JS) - **A website that allows you to generate a password and save it to local storage**
+- **[Proper food](https://github.com/CheateRYT/Food)** (HTML+ CSS + JS) - **Website on pure JS, with many widgets. Slider, forms, calculator, select menu, promo timer**
+- **[Todo list](  https://github.com/CheateRYT/todo_redux)** (React) - **Todo list with Redux Toolkit 2.0**
+
 
  <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=CheateRYT&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
