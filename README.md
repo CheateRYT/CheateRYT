@@ -30,4 +30,3 @@ Hello
 
  <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=CheateRYT&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheateRYT&hide=html&layout=donut&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
