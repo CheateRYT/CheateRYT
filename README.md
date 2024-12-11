@@ -42,4 +42,6 @@ A text adventure game where you lead (and star) and the AI ​​brings it to li
 - **[Uniswap new interface](https://github.com/CheateRYT/uniswapnextjs)** (NextJS + TS + Web3js) - **New Uniswap interface. With auto deploy web3js solidity smart contract. Auth with MetaMask**
 - **[YorLife](https://github.com/CheateRYT/yourLifeReact)** (React) - **Your life - a browser game where you live life from birth until death**
 
-  <img width="55%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=CheateRYT&theme=tokyonight" alt="mystreak"/>
+  <img width="55%" align="right" src="https://streak-stats.demolab.com/?user=CheateRYT&theme=tokyonight" alt="mystreak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
