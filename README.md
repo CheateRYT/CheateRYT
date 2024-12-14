@@ -35,13 +35,12 @@ A text adventure game where you lead (and star) and the AI ​​brings it to li
 - **[Employee management](https://github.com/CheateRYT/react-employees)** (React + Express js + PrismaORM + TS) - **Employee management project for course work**
 - **[MarketPlace](https://github.com/CheateRYT/ConfidentProfessionals_2024_B)** (Jquery + Kotlin + Docker + Confident (Web3Tech) - **Blockchain marketplace project in which there are clients, distributors, administrators, ordering systems**
 - **[RollShop](https://github.com/CheateRYT/RollShop)** (HTML+ CSS + JS) - **Roll store written in pure JS withot frameworks**
-- **[Porfolio](https://github.com/CheateRYT/Portfolio)** (HTML+ CSS + JS) - **Frontend Portfolio website**
+- **[Portfolio](https://github.com/CheateRYT/Portfolio)** (HTML+ CSS + JS) - **Frontend Portfolio website**
 - **[PassGenerator](https://github.com/CheateRYT/Pass-Generator)** (HTML+ CSS + JS) - **A website that allows you to generate a password and save it to local storage**
-- **[Proper food](https://github.com/CheateRYT/Food)** (HTML+ CSS + JS) - **Website on pure JS, with many widgets. Slider, forms, calculator, select menu, promo timer**
-- **[GetMeCodet](https://github.com/CheateRYT/GetMeCode)** (React, TS, CodeMirror, Node js) - **Online code editor (JS, Python). Test task for employer.**
+- **[EduConnect](https://github.com/CheateRYT/EduConnect)** (Next js + Nest js + TypeScript + Prisma ORM) - **An educational platform that connects students, teachers and employers. Hackathon project**
+- **[GetMeCode](https://github.com/CheateRYT/GetMeCode)** (React, TS, CodeMirror, Node js) - **Online code editor (JS, Python). Test task for employer.**
 - **[Uniswap new interface](https://github.com/CheateRYT/uniswapnextjs)** (NextJS + TS + Web3js) - **New Uniswap interface. With auto deploy web3js solidity smart contract. Auth with MetaMask**
 - **[YorLife](https://github.com/CheateRYT/yourLifeReact)** (React) - **Your life - a browser game where you live life from birth until death**
 
   <img width="55%" align="right" src="https://streak-stats.demolab.com/?user=CheateRYT&theme=tokyonight" alt="mystreak"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
