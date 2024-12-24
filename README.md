@@ -11,6 +11,8 @@ Not a bug, but a feature
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
     <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
