@@ -44,3 +44,6 @@ A text adventure game where you lead (and star) and the AI ​​brings it to li
 
   <img width="55%" align="right" src="https://streak-stats.demolab.com/?user=CheateRYT&theme=tokyonight" alt="mystreak"/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sixsixsooo&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
