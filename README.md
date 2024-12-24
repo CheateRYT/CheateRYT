@@ -9,7 +9,9 @@ Not a bug, but a feature
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCss&logoColor=E9D54D)
+<img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
@@ -22,7 +24,6 @@ Not a bug, but a feature
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ### Resume
 
