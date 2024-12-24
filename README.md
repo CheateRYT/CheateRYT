@@ -31,7 +31,7 @@ Not a bug, but a feature
 
 [![hh.ru](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
 - **[Gril-MixCer](https://github.com/CheateRYT/grilmixer)** (React + NestJS + PrismaORM + TS + YooMoney) - **Commercial project for a restaurant and food court using online payment**
-- [JustStory AI frontend](https://github.com/CheateRYT/juststory_frontend) | [JustStory AI backend](https://github.com/CheateRYT/juststory_backend) ** (Next JS + Nest JS + TS + Redis + Prisma ORM + GigaChat API + YooKassa) - **
+- [JustStory AI frontend](https://github.com/CheateRYT/juststory_frontend) | [JustStory AI backend](https://github.com/CheateRYT/juststory_backend) ** (Next JS + Nest JS + TS + Redis + Prisma ORM + GigaChat API + Swagger UI) - **
 A text adventure game where you lead (and star) and the AI ​​brings it to life.**
 - **[Apartment renovation](https://github.com/CheateRYT/Order_database)** (React + ExpressJs + PrismaORM + TS) - **Website for applications for apartment renovation **
 - **[Uniswap](https://github.com/CheateRYT/Uniswap)** (Solidity + React + TS + Geth + Web3js) - **Blockchain project for championship. Uniswap parody. Pools, stacking, liquidity, multiRouter. Auth with MetaMask**
