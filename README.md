@@ -15,17 +15,15 @@ Not a bug, but a feature
  <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
-![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+   <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
 ![NextJS](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=E9D54D)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+   <img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=white">
+   <img src="https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=white">
 ![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+   <img src="https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=white">
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ### Resume
 
