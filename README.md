@@ -3,7 +3,7 @@
 
 ## Hello I'm FullStack developer.
 
-Not a bug, but a feature
+Not a bug, but a feature.
 
 ### Languages and Tools
 
