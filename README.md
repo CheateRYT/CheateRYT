@@ -10,21 +10,21 @@ Not a bug, but a feature.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue">
  <img src="https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=prisma&logoColor=white">
  <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
    <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
-![NextJS](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=E9D54D)
+  <img src="https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js?style=for-the-badge&logo=next.js&logoColor=white">
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
    <img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=white">
    <img src="https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=white">
    <img src="https://img.shields.io/badge/Jquery-090909?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=white">
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
 ### Resume
 
 [![hh.ru](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh&logoColor=ff0000)](https://rostov.hh.ru/resume/38b4eae4ff0afe105b0039ed1f5432414a785a)
