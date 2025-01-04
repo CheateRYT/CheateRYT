@@ -12,13 +12,14 @@ Not a bug, but a feature.
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
     <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue">
  <img src="https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=green">
  <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
    <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
   <img src="https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js?style=for-the-badge&logo=express.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express.js&logoColor=green">
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
    <img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=white">
