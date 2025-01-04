@@ -8,7 +8,7 @@ Not a bug, but a feature.
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=E9D54D)
+	<img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
     <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue">
  <img src="https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=prisma&logoColor=white">
