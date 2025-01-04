@@ -18,7 +18,7 @@ Not a bug, but a feature.
    <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=E9D54D)
   <img src="https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js?style=for-the-badge&logo=express.js&logoColor=white">
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
    <img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=white">
