@@ -1,7 +1,7 @@
 [![Header](https://github.com/CheateRYT/CheateRYT/blob/main/assets/destroy-code-mad.gif)](https://github.com/CheateRYT)
 
 
-## Hello I'm FullStack developer.
+## Hello I'm FullStack / Frontend developer.
 
 Not a bug, but a feature.
 
