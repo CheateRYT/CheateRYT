@@ -22,8 +22,7 @@ Not a bug, but a feature.
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=E9D54D)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=E9D54D)
    <img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=white">
-   <img src="https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=white">
-   <img src="https://img.shields.io/badge/Jquery-090909?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Jquery-090909?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=white">
 ### Resume
 
