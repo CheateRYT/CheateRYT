@@ -14,6 +14,9 @@ Not a bug, but a feature.
  <img src="https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=prisma&logoColor=white">
  <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=green">
  <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=white">
+ 	<img src="https://img.shields.io/badge/-TypeORM-090909?style=for-the-badge&logo=TypeORM&logoColor=E34F26"/>
+	 	<img src="https://img.shields.io/badge/-Qdrant-090909?style=for-the-badge&logo=Qdrant&logoColor=E34F26"/>
+			<img src="https://img.shields.io/badge/-PG-090909?style=for-the-badge&logo=PG&logoColor=E34F26"/>
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoClolor=E9D54D)
    <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
